@@ -4,6 +4,7 @@ Mi nombre es Franco Sanchez, soy de Mendoza, Argentina. Soy estudiante de progra
 * Java SE y Java EE
 * Spring Boot
 * Spring Cloud
+* MYSQL
   
 ## Herramientas:
 * Git y GitHub
