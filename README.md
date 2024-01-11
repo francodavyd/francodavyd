@@ -13,6 +13,8 @@ Mi nombre es Franco Sanchez, soy de Mendoza, Argentina. Soy estudiante de progra
 * Git y GitHub
 * IntelliJ Idea
 * Postman
+* Swagger
+  
 
 
   
