@@ -3,10 +3,12 @@ Mi nombre es Franco Sanchez, soy de Mendoza, Argentina. Soy estudiante de progra
 
 ## Tecnologias/Habilidades:
 * Java SE y Java EE
-* Programación Orientada a Objetos
 * APIsRESTFul Spring Boot
 * Microservicios con Spring cloud
 * MYSQL
+##Paradigmas de programación:
+* Programación Orientada a Objetos
+* Programación Funcional
   
   
 ## Herramientas:
